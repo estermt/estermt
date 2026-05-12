@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**estermt/estermt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Geneticist working on methane emissions in dairy cattle and sustainable breeding strategies.
 
-Here are some ideas to get you started:
+# My current interests are
+- Quantitative genetics
+- Genomic prediction
+- Statistical modeling
+- Sustainability in livestock
+- Data science & AI applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+- R
+- Python (learning)
+- Git/GitHub
+- Linux
+
+## Currently exploring
+Machine learning applications in animal genetics.
